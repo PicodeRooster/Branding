@@ -15,7 +15,7 @@
         "h2": {
             "margin": "0px",
             "padding": "0px",
-            "color": "#7a7a80",
+            "color": "#e39219",
             "fontSize": "24px",
             "fontFamily": "Helvetica, Roboto, sans-serif",
             "fontWeight": "bold"
@@ -73,7 +73,13 @@
             "color": "#7a7a80",
             "fontFamily": "Arial",
             "fontSize": "10px"
-            }   
+            },
+        "em": {
+            "color": "#e39219",
+            "font-style": "normal",
+            "fontFamily": "Arial",
+            "fontSize": "14px"
+            }
         }
     }
 }  
