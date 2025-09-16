@@ -8,7 +8,7 @@
             "margin": "0px",
             "padding": "0px",
             "color": "#2092eb",
-            "fontSize": "28px",
+            "fontSize": "40px",
             "fontFamily": "Helvetica, Roboto, sans-serif",
             "fontWeight": "bold"
     },
@@ -16,28 +16,28 @@
             "margin": "0px",
             "padding": "0px",
             "color": "#e39219",
-            "fontSize": "24px",
+            "fontSize": "32px",
             "fontFamily": "Helvetica, Roboto, sans-serif",
             "fontWeight": "bold"
     },  "h3": {
             "margin": "0px",
             "padding": "0px",
             "color": "#7a7a80",
-            "fontSize": "20px",
+            "fontSize": "28px",
             "fontFamily": "Helvetica, Roboto, sans-serif",
             "fontWeight": "bold"
     },  "h4": {
             "margin": "0px",
             "padding": "0px",
             "color": "#7a7a80",
-            "fontSize": "16px",
+            "fontSize": "22px",
             "fontFamily": "Helvetica, Roboto, sans-serif",
             "fontWeight": "normal"
     },  "h5": {
             "margin": "0px",
             "padding": "0px",
             "color": "#7a7a80",
-            "fontSize": "12px",
+            "fontSize": "18px",
             "fontFamily": "Helvetica, Roboto, sans-serif",
             "fontWeight": "normal"
     },
@@ -45,7 +45,7 @@
             "margin": "0px",
             "padding": "0px",
             "color": "#7a7a80",
-            "fontSize": "10px",
+            "fontSize": "14px",
             "fontFamily": "Arial",
             "fontWeight": "lighter"
     },
