@@ -1,0 +1,79 @@
+{
+ "web": {
+    "html":{
+        "body": {
+            "background-color": "#eaeaea"
+    },
+        "h1": {
+            "margin": "0px",
+            "padding": "0px",
+            "color": "#2092eb",
+            "fontSize": "28px",
+            "fontFamily": "Helvetica, Roboto, sans-serif",
+            "fontWeight": "bold"
+    },
+        "h2": {
+            "margin": "0px",
+            "padding": "0px",
+            "color": "#7a7a80",
+            "fontSize": "24px",
+            "fontFamily": "Helvetica, Roboto, sans-serif",
+            "fontWeight": "bold"
+    },  "h3": {
+            "margin": "0px",
+            "padding": "0px",
+            "color": "#7a7a80",
+            "fontSize": "20px",
+            "fontFamily": "Helvetica, Roboto, sans-serif",
+            "fontWeight": "bold"
+    },  "h4": {
+            "margin": "0px",
+            "padding": "0px",
+            "color": "#7a7a80",
+            "fontSize": "16px",
+            "fontFamily": "Helvetica, Roboto, sans-serif",
+            "fontWeight": "normal"
+    },  "h5": {
+            "margin": "0px",
+            "padding": "0px",
+            "color": "#7a7a80",
+            "fontSize": "12px",
+            "fontFamily": "Helvetica, Roboto, sans-serif",
+            "fontWeight": "normal"
+    },
+        "h6": {
+            "margin": "0px",
+            "padding": "0px",
+            "color": "#7a7a80",
+            "fontSize": "10px",
+            "fontFamily": "Arial",
+            "fontWeight": "lighter"
+    },
+        "p": {
+            "fontFamily": "Arial",
+            "fontSize": "12px",
+            "color": "#7a7a80"
+    },
+        "ul": {
+            "fontFamily": "Arial",
+            "fontSize": "12px",
+            "color": "#7a7a80"
+    },
+        "img": {
+            "width": "300px",
+            "margin": "0 auto",
+            "border": "5px solid white",
+            "border-radius": "5px"
+    },
+        "figure": {
+            "margin": "0px",
+            "padding": "0px"
+    },
+        "figcaption": {
+            "color": "#7a7a80",
+            "fontFamily": "Arial",
+            "fontSize": "10px"
+            }   
+        }
+    }
+}  
