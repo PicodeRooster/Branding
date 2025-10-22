@@ -1,2 +1,1 @@
-This is my project
-<img src ="images/pfSense VM preconfig.png"></img>
+This is a project I am working on to format all of my presentations in one same default styling. 
