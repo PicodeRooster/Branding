@@ -1,4 +1,5 @@
-fetch('json/brand.json')
+const template = 'json/template1.json'
+fetch(template)
     .then(response => response.json())
     .then(data => {
           
